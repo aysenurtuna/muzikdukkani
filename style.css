@@ -1,0 +1,29 @@
+
+#headeralani{
+    background-color:#f5f3f3;
+    margin: 0;
+    padding-top: 20px;
+    height: 65px;
+    width: 100%;
+    top: 0;
+}
+#logoyazisi{
+    color: blueviolet;
+    font-size: 36px;
+    font-weight: 800;
+    display: inline;
+}
+#navigasyon{
+    list-style: none;
+    float: right;
+  padding-right: 50px;
+}
+#navigasyon>li{
+    float: left;
+    padding-right: 30px;
+    font-size: 22px;
+}
+#navigasyon a{
+    text-decoration: none;
+    color: blueviolet;
+}
