@@ -1,4 +1,6 @@
-
+body{
+    font-family: monospace;
+}
 #headeralani{
     background-color:#f5f3f3;
     margin: 0;
@@ -12,6 +14,7 @@
     font-size: 36px;
     font-weight: 800;
     display: inline;
+    padding-left: 20px;
 }
 #navigasyon{
     list-style: none;
@@ -26,4 +29,24 @@
 #navigasyon a{
     text-decoration: none;
     color: blueviolet;
+}
+#mainalani{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+#urun_secenekleri{
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.urunler{
+   width: 125px; 
+   float: left;
+   padding-left: 115px;
 }
