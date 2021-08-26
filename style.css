@@ -50,3 +50,12 @@ body{
    float: left;
    padding-left: 115px;
 }
+#urunlerkategorisi{
+    width: 80%;
+}
+#urun{
+    width: 250px;
+    height: auto;
+    display: inline;
+    float: left;
+}
