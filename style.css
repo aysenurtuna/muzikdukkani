@@ -52,10 +52,18 @@ body{
 }
 #urunlerkategorisi{
     width: 80%;
+    height: auto;
+    
 }
 #urun{
     width: 250px;
     height: auto;
     display: inline;
     float: left;
+}
+#urun>img{
+    width: 250px;
+    height: auto;
+    object-fit: contain;
+
 }
