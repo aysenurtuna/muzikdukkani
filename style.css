@@ -68,3 +68,15 @@ body{
     width: 100%;
    
 }
+#hakkimizda{
+    text-align: center;
+    color: blueviolet;
+}
+#hakkimizdayazisi{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    font-size: 14px;
+    
+}
